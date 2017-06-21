@@ -1,0 +1,15 @@
+[submodule "web_client"]
+	path = web_client
+	url = git@github.com:FranckBesson/web_client.git
+[submodule "java_simulator"]
+	path = java_simulator
+	url = git@github.com:FranckBesson/java_simulator.git
+[submodule "weather_arduino"]
+	path = weather_arduino
+	url = git@github.com:FranckBesson/weather_arduino.git
+[submodule "c_program"]
+	path = c_program
+	url = git@github.com:FranckBesson/c_program.git
+[submodule "web_server"]
+	path = web_server
+	url = https://git.heroku.com/webserverlemonade.git
