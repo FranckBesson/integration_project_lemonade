@@ -10,6 +10,3 @@
 [submodule "c_program"]
 	path = c_program
 	url = git@github.com:FranckBesson/c_program.git
-[submodule "web_server"]
-	path = web_server
-	url = https://git.heroku.com/webserverlemonade.git
